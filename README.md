@@ -1,4 +1,21 @@
-# How to place input
+# Advent of Code
+
+Hello lone traveller!
+
+This is my repository for [Advent of Code](https://adventofcode.com/2019) solutions.  I'm solving the challenges in Ruby to learn more about the language and get used to the style of programming.
+
+Cheers!
+
+## Placements
+
+- Day 1 Task 1: Rank 360
+- Day 1 Task 2: Rank 317
+- Day 2 Task 1: Rank 333
+- Day 2 Task 2: Rank 184
+
+`Score: 0`
+
+## How to place input
 
 Input files should be at `input/<year>d<day>t<task>`
 
