@@ -12,8 +12,18 @@ Cheers!
 - Day 1 Task 2: Rank 317
 - Day 2 Task 1: Rank 333
 - Day 2 Task 2: Rank 184
+- Day 3 Task 1: Rank 31487*
+- Day 3 Task 2: Rank 27407*
+- Day 4 Task 1: Rank 29921*
+- Day 4 Task 2: Rank 27619*
+- Day 5 Task 1: Rank 9
+- Day 5 Task 2: Rank 316
+- Day 6 Task 1: Rank 121
+- Day 6 Task 2: Rank 46
 
-`Score: 0`
+`Score: 147`
+
+*Past 24h
 
 ## How to place input
 
